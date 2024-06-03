@@ -1,0 +1,42 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+}
+
+.post {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2, p {
+    padding: 10px;
+}
+
+.post-header > p {
+    color: grey;
+}
+
+img {
+    width: 100%;
+}
+
